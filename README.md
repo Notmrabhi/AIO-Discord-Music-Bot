@@ -3,8 +3,7 @@
 ## 📑 Bot Features
 
 - [x] Music System
-- [x] MessageButton![Screenshot (323)](https://user-images.githubusercontent.com/110781004/211622751-4163de96-01c4-4404-98d1-fcb6ab7e8028.png)
-
+- [x] MessageButton
 - [x] Slash Commands
 - [x] Gif embader
 - [x] kick/ban
